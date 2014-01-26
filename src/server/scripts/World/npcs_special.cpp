@@ -2941,7 +2941,7 @@ public:
     }
 };
 
-#define GOSSIP_SELECT_FACTION "Je suis pret a prendre ma decision."
+#define GOSSIP_SELECT_FACTION "Choose a faction Horde or Alliance."
 
 class npc_neutral_faction_select : public CreatureScript
 {
